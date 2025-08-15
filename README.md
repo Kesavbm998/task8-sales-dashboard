@@ -10,7 +10,7 @@ The dashboard allows users to filter data dynamically and visualize key trends.
 
 ## 📂 Files in this Repository
 - **Sample - Superstore.csv** → Sales dataset used in the dashboard.
-- **Sales_Dashboard.twbx** → Packaged Tableau Workbook containing the dashboard.
+- **Superstore Sales Dashboard – Task 8.twbx** → Packaged Tableau Workbook containing the dashboard.
 - **dashboard.pdf** → Exported PDF version of the dashboard.
 - **insights.txt** → 3–4 key findings from the analysis.
 - **README.md** → Project documentation.
@@ -25,7 +25,7 @@ The dashboard allows users to filter data dynamically and visualize key trends.
 Refer to `insights.txt` for detailed observations.
 
 ## 🚀 How to Use
-1. Download `Sales_Dashboard.twbx` and open it in Tableau Public.
+1. Download `Superstore Sales Dashboard – Task 8.twbx` and open it in Tableau Public.
 2. Use the filter to view sales trends for specific regions.
 3. Explore visuals for category contributions and sales trends over time.
 
